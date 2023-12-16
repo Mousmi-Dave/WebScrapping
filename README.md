@@ -6,9 +6,9 @@ This project gathers data from both single and multiple pages. The repository en
 
 ## Features
 
--For Single Page Webscrapping, I have used data which was in Table format on website.                                
+-In the case of single-page web scraping, I utilized data presented in tabular format on the website.                                
 
--For Multiple Pages, I have used Non- Structed data from website.
+-Conversely, for multiple pages, I worked with unstructured data obtained from the website.
 
 
 ## Getting Started
