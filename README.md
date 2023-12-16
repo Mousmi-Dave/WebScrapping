@@ -6,9 +6,10 @@ This project gathers data from both single and multiple pages. The repository en
 
 ## Features
 
--For Single Page Webscrapping, I have used data which was in Table format on website.
+-For Single Page Webscrapping, I have used data which was in Table format on website.                                
+
 -For Multiple Pages, I have used Non- Structed data from website.
-- ...
+
 
 ## Getting Started
 
@@ -18,13 +19,17 @@ Instially there must be a website whose data is free avaiable over Internet.
 
 There must be three libraries need to install on your system. They are Requests, BeatifulSoup and Pandas. Below are cmd to install them.
 
-pip install requests
-pip install beautifulsoup4
+pip install requests  
+
+pip install beautifulsoup4  
+
 pip install pandas
 
 
 ## Dependencies
+
 This above projects are dependent on Requests, BeatifulSoup and Pandas libraries. 
 
 ## Necessary details
-I have mentioned both websites Structured and Non-Structured data in my code. 
+
+I have mentioned both websites details which is Structured and Non-Structured data in my code. 
