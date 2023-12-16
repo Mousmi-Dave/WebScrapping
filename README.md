@@ -1,17 +1,21 @@
 # WebScrapping project 
 
 ## Description
-This project that retreive data from single page as well as multiple pages. This Repository will hold all of the code and queries which I have create and uploaded as well. In this repository there are projects for single page Web Scrapping and Multiple Page Web Scrapping. I have used Jupyter Noteebook for retreiving the data from scratch . I have used requests and Beautiful Soup library for retrive the data from website along with Pandas to store data in .csv format. The logic behind storing the data in .csv format so that we can use the data for more analysis. This .csv format can utilize in Tableau for Data Visualition or else we can hit the SQL query to find more insight, solve the problem statement. Even the insight can be fetched using Python language
+
+This project gathers data from both single and multiple pages. The repository encompasses all the code and queries that I have developed and uploaded. Within this repository, you'll find projects focused on web scraping for both single and multiple pages. Jupyter Notebook was employed for extracting data from websites. The raw data retrieval utilized Requests and Beautiful Soup libraries, and Pandas was employed to store the data in a .csv format. This .csv format can be leveraged in Tableau for data visualization, or alternatively, SQL queries can be executed to derive additional insights and address specific problem statements. Furthermore, insights can be obtained using the Python programming language too.
 
 ## Features
+
 -For Single Page Webscrapping, I have used data which was in Table format on website.
 -For Multiple Pages, I have used Non- Structed data from website.
 - ...
 
 ## Getting Started
+
 Instially there must be a website whose data is free avaiable over Internet.
 
 ## Installation
+
 There must be three libraries need to install on your system. They are Requests, BeatifulSoup and Pandas. Below are cmd to install them.
 
 pip install requests
