@@ -1,44 +1,26 @@
-# WebScrapping
-In this repository there are projects for single page Web Scrapping and Multiple Page Web Scrapping.
-# Project Name
+# WebScrapping project that retreive data from single pasge as well as multiple pages
 
 ## Description
-A brief description of your web scraping project.
+This Repository will hold all of the code and queries which I have create and uploaded as well. In this repository there are projects for single page Web Scrapping and Multiple Page Web Scrapping. I have used Jupyter Noteebook for retreiving the data from scratch . I have used requests and Beautiful Soup library for retrive the data from website along with Pandas to store data in .csv format. The logic behind storing the data in .csv format so that we can use the data for more analysis. This .csv format can utilize in Tableau for Data Visualition or else we can hit the SQL query to find more insight, solve the problem statement. Even the insight can be fetched using Python language
 
 ## Features
-- Feature 1
-- Feature 2
+-For Single Page Webscrapping, I have used data which was in Table format on website.
+-For Multiple Pages, I have used Non- Structed data from website.
 - ...
 
 ## Getting Started
-Instructions on setting up and running the project locally.
+Instially there must be a website whose data is free avaiable over Internet.
 
 ## Installation
-Steps to install dependencies and configure the environment.
+There must be three libraries need to install on your system. They are Requests, BeatifulSoup and Pandas. Below are cmd to install them.
 
-## Usage
-How to use your web scraping project, with examples.
+pip install requests
+pip install beautifulsoup4
+pip install pandas
 
-## Examples
-Input/output examples or demonstrations.
 
 ## Dependencies
-List of external libraries or tools your project depends on.
+This above projects are dependent on Requests, BeatifulSoup and Pandas libraries. 
 
-## Contributing
-Guidelines for contributing to the project.
-
-## License
-Specify the license for your project.
-
-## Credits
-Credit any contributors, libraries, or resources you used.
-
-## Future Enhancements
-Outline planned future features or improvements.
-
-## Code of Conduct
-Code of conduct for project contributors.
-
-## Contact
-Provide contact information.
+## Necessary details
+I have mentioned both websites Structured and Non-Structured data in my code. 
